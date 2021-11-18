@@ -28,7 +28,7 @@ Activity Level is the score that shows how I did my best by myself. That is help
 - Score 4: Like immigration, I watched adult age content, I did understand with English-script.
 - Score 5: Like a professional, I watched study content related to development; I did watch over 30min in English.
 - Score 6: Like a professional, I watched study content related to development; I did understand with English-script.
-- Score 7: Use English over 5hours per day
-- Score 8: Use English over 10hours per day with correct grammar by tool, application, googling.
-- Score 9: Include above all, and never use my country language.
-- Score 10: Include above all; understood over 80% correctly.
+- Score 7: **Use** English over 5hours per day
+- Score 8: Use English over 10hours per day and get **feedback** as correcting grammar, tool, application, googling.
+- Score 9: Include above all, and **never** use my country language.
+- Score 10: Include above all; understood over **80%** correctly.

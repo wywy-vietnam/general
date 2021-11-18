@@ -11,19 +11,24 @@ Think, tesla CEO Elon musk he is not born. Google CEO Sundar Pichai is also not 
 
 This server will help make does not to give up using English skills by each member.
 
+# Purpose
+- Never **give up**, we will help you by each us.
+- Do not get **stress**, English is not study, it is tool, we need to **use** as much as we can.
+- Get feedback from native as much as you can, you need to make your **environment** to use English. 
+
 # Guide 
 - Prove 
 Everyday Prove what you are trying to learn English as Github commits annual calendar.
 
 Activity Level is the score that shows how I did my best by myself. That is helpful to you better myself than yesterday.
 
-Score 1: I did watch over 30min English Content.
-Score 2: I did translate over three replies of Content and understood perfectly.
-Score 3: I did translate over 1page of Content or wrote with correct grammar.
-Score 4: I did over 1hour of speech, pronounce or talk in English.
-Score 5: While whole one day. Never watch or see and access my native language. 
-Score 6: Over 1 hour, I got a feedback speech or writing through a Native level person.
-Score 7: While getting feedback, Never use my language.
-Score 8: Include above all, I did play English Content overnight when I slept. 
-Score 9: Include above all; while I sleep, I played immigration level content.
-Score 10: Include above all; I played anything and understood over 80% correctly while I slept
+- Score 1: Like Baby, I watched easy content; I did watch over 30min in English.
+- Score 2: Like Baby, I watched easy content, I did understand with English-script.
+- Score 3: Like immigration, I watched adult age content; I did watch over 30min in English.
+- Score 4: Like immigration, I watched adult age content, I did understand with English-script.
+- Score 5: Like a professional, I watched study content related to development; I did watch over 30min in English.
+- Score 6: Like a professional, I watched study content related to development; I did understand with English-script.
+- Score 7: Use English over 5hours per day
+- Score 8: Use English over 10hours per day with correct grammar by tool, application, googling.
+- Score 9: Include above all, and never use my country language.
+- Score 10: Include above all; understood over 80% correctly.

@@ -31,4 +31,4 @@ Activity Level is the score that shows how I did my best by myself. That is help
 - Score 7: **Use** English over 5hours per day
 - Score 8: Use English over 10hours per day and get **feedback** as correcting grammar, tool, application, googling.
 - Score 9: Include above all, and **never** use my country language.
-- Score 10: Include above all; understood over **80%** correctly.
+- Score 10: Include above all; understood over **80%** correctly without script.

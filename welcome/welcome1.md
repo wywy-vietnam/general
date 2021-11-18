@@ -23,9 +23,9 @@ Everyday Prove what you are trying to learn English as Github commits annual cal
 Activity Level is the score that shows how I did my best by myself. That is helpful to you better myself than yesterday.
 
 - Score 1: Like Baby, I watched easy content; I did watch over 30min in English.
-- Score 2: Like Baby, I watched easy content, I did understand with English-script.
+- Score 2: Like Baby, I watched easy content; I did understand with English script **over 2hours**.
 - Score 3: Like immigration, I watched adult age content; I did watch over 30min in English.
-- Score 4: Like immigration, I watched adult age content, I did understand with English-script.
+- Score 4: Like immigration, I watched adult age content; I did understand with English script **over 2hours**.
 - Score 5: Like a professional, I watched study content related to development; I did watch over 30min in English.
 - Score 6: Like a professional, I watched study content related to development; I did understand with English-script.
 - Score 7: **Use** English over 5hours per day

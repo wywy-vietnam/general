@@ -22,13 +22,13 @@ Everyday Prove what you are trying to learn English as Github commits annual cal
 
 Activity Level is the score that shows how I did my best by myself. That is helpful to you better myself than yesterday.
 
-- Score 1: Like baby, I watched content using easy words; I did watch over 30min in English.
-- Score 2: Like baby, I watched content using easy words; I did understand with English script **over 2hours**.
-- Score 3: Like immigration, I watched content using diverse words; I did watcht in English over 1hour.
-- Score 4: Like immigration, I watched content using diverse words; I did understand with English script **over 2hours**.
-- Score 5: Like a professional, I watched study content related to development; I did watch in English over 2hours.
-- Score 6: Like a professional, I watched study content related to development; I did understand with English-script over 4hours.
-- Score 7: **Use** English over 5hours per day
-- Score 8: Use English over 10hours per day and get **feedback** as correcting grammar, tool, application, googling.
-- Score 9: Include above all, and **never** use my country language.
-- Score 10: Include above all; understood over **80%** correctly without script.
+- Score 1: Over 30min used English, and Like baby, I watched content using easy words.
+- Score 2: Over 1hours used English, and Like baby, I watched content using easy words.
+- Score 3: Over 1hours used English, and Like immigration, I watched content using diverse words.
+- Score 4: Over 2hours used English, and Like immigration, I watched content using diverse words.
+- Score 5: Over 2hours used English, and Like a professional, I watched study content related to development.
+- Score 6: Over 4hours used English, and Like a professional, I watched study content related to development.
+- Score 7: Over 5hours used English, including writing, speech.
+- Score 8: Over 8hours, use English, and get **feedback** as correcting grammar, tool, application, googling.
+- Score 9: Over 9hours, use English, and **never** use my country language.
+- Score 10: Over 12hours, use English.

@@ -23,12 +23,12 @@ Everyday Prove what you are trying to learn English as Github commits annual cal
 Activity Level is the score that shows how I did my best by myself. That is helpful to you better myself than yesterday.
 
 - Score 1: Over 30min used English, watched fun contents using diverse words.
-- Score 2: Over 1hour used English, watched fun contents using diverse words.
-- Score 3: Over 1hour used English, watched not fun, but to increase words.
-- Score 4: Over 2hours used English, watched not fun, but to increase words.
-- Score 5: Over 2hours used English, watched study content related to development.
-- Score 6: Over 4hours used English, watched study content related to development.
-- Score 7: Over 5hours used English, including writing, speech.
-- Score 8: Over 8hours, use English, and get **feedback** as correcting grammar, tool, application, googling.
-- Score 9: Over 9hours, use English, and **never** use my country language.
-- Score 10: Over 12hours, use English.
+- Score 2: Over 1hour used English, watched not fun but but to increase using words.
+- Score 3: Over 1hour used English, watched study content related to development.
+- Score 4: Over 2hours used English, watched study content related to development.
+- Score 5: Over 2hours used English, translate pages for increasing knowledge.
+- Score 6: Over 4hours used English, write and speech.
+- Score 7: Over 5hours used English, get feedback from reddit, stackoverflow.
+- Score 8: Over 6hours, use English, and **never** use my country language.
+- Score 9: Over 8hours, use English, and **never** use my country language.
+- Score 10: Over 12hours, use English. and **never** use my country language.

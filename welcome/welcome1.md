@@ -23,7 +23,7 @@ Everyday Prove what you are trying to learn English as Github commits annual cal
 Activity Level is the score that shows how I did my best by myself. That is helpful to you better myself than yesterday.
 
 ## BRONZE-TIER
-It is the purpose to rid the fear of watching English content.
+It is the purpose to rid the fear of **watching** English content.
 - Score 1/10: Over 30min used English, watched fun contents using diverse words.
 - Score 2/10: Over 1hour used English, watched fun contents using diverse words.
 - Score 3/10: Over 1hour used English, watched not fun, but to increase words.
@@ -36,7 +36,7 @@ It is the purpose to rid the fear of watching English content.
 - Score 10/10: Over 12hours, use English.
 
 ## DIAMOND-TIER
-It is the purpose of rid the fear of learning English content.
+It is the purpose of rid the fear of **learning** English content.
 - Score 1/10: Over 30min used English, watched fun contents using diverse words.
 - Score 2/10: Over 1hour used English, watched not fun but to increase using words.
 - Score 3/10: Over 1hour used English, watched study content related to development.
@@ -49,7 +49,7 @@ It is the purpose of rid the fear of learning English content.
 - Score 10/10: **never** use my country language, Over 12hours, use English.
 
 ## CHALLENGER-TIER
-It is the purpose of being native.
+It is the purpose of being **native**.
 - Score 1/10: **never** use my country language, Over 30min, watched English contents.
 - Score 2/10: **never** use my country language, Over 1hour, watched English contents what not fun but to increase diverse words.
 - Score 3/10: **never** use my country language, Over 2hours, watched study content related to development.

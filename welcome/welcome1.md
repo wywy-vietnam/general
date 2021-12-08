@@ -48,7 +48,7 @@ It is the purpose of rid the fear of learning English content.
 - Score 9/10: **never** use my country language, Over 7hours, use English.
 - Score 10/10: **never** use my country language, Over 12hours, use English.
 
-## Challenger-TIER
+## CHALLENGER-TIER
 It is the purpose of being native.
 - Score 1/10: **never** use my country language, Over 30min, watched English contents.
 - Score 2/10: **never** use my country language, Over 1hour, watched English contents what not fun but to increase diverse words.

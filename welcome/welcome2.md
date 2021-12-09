@@ -1,3 +1,9 @@
+# Guide 
+- Prove 
+Everyday Prove what you are trying to learn English as Github commits annual calendar.
+
+Activity Level is the score that shows how I did my best by myself. That is helpful to you better myself than yesterday.
+
 ## BRONZE-TIER
 It is the purpose to rid the fear of **watching** English content.
 - Score 1/10: Over 30min used English, watched fun contents using diverse words.

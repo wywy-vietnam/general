@@ -16,9 +16,3 @@ This server will help make does not give up using English skills by each member.
 - Do not get **stress**, English does not study; it is a tool, we need to **use** as much as we can.
 - Get feedback from natives as much as you can; you need to make your **environment** use English. 
 
-# Guide 
-- Prove 
-Everyday Prove what you are trying to learn English as Github commits annual calendar.
-
-Activity Level is the score that shows how I did my best by myself. That is helpful to you better myself than yesterday.
-

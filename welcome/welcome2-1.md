@@ -7,8 +7,8 @@ Activity Level is the score that shows how I did my best by myself. That is help
 ## BRONZE-TIER
 It is the purpose to rid the fear of **watching** English content.
 - Score 1/10: Over 30min used English, watched fun contents using diverse words.
-- Score 2/10: Over 1hour used English, understood over 50%, or tried to understand new words at least one over.
-- Score 3/10: Over 1hour used English, watched not fun, but to increase words.
+- Score 2/10: Over 1hour used English, watched fun contents using diverse words and understood over 50%, or tried to understand new words at least one over.
+- Score 3/10: Over 1hour used English, watched not fun, but to increase words and try to transrate sentence at least one as 100% understanding.
 - Score 4/10: Over 1hours used English, watched study content related to anything at least one over.
 - Score 5/10: Over 1hours used English, watched study content related to development at least one over.
 - Score 6/10: Over 2hours used English, watched study content related to development, then got new knowledge.

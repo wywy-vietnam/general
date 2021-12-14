@@ -1,6 +1,5 @@
 ## DIAMOND-TIER
-It is the purpose of rid the fear of **learning** English content.
-Ban condition: You must keep posting on the date; Your tier should be downed for one 1week. Suppose you post the past day.
+### It is the purpose of rid the fear of **learning** English content. <br> Ban condition: You must keep posting on the date; Your tier should be downed for one 1week. Suppose you post the past day.
 - Score 1/10:  **never** watched fun my country language content except for study content. + Over 30min used English, watched fun contents using diverse words.
 - Score 2/10: **never** watched fun my country language content except for study content. + Over 1hour used English, watched not fun but to increase using words.
 - Score 3/10: **never** watched fun my country language content except for study content. + Over 1hour used English, watched study content related to development.

@@ -11,6 +11,9 @@ It is the purpose to rid the fear of **watching** English content.
 - Score 3/10: Over 1hour used English, watched not fun, but to increase words and try to transrate sentence at least one as 100% understanding.
 - Score 4/10: Over 1hours used English, watched study content related to anything at least one over.
 - Score 5/10: Over 1hours used English, watched study content related to development or business at least one over.
+
+After this line, You should never watch Korean fun Contents, and if you did, you deserve to get a high score.
+
 - Score 6/10: Over 2hours used English, watched study content related to development or business , then got new knowledge.
 - Score 7/10: Over 2hours used English, including writing, and got **feedback** as correcting grammar, tool, application, googling.
 - Score 8/10: Over 3hours used English, something got feedback. e.g. business talk, chatting, business communication, zoom, Reddit, Twitter, youtube reply, article 

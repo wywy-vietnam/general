@@ -1,6 +1,6 @@
 ## DIAMOND-TIER
 ### Purpose: It is the purpose of rid the fear of **learning** English content. 
-Ban condition: You must keep posting on the date; Your tier should be downed for one 1week. Suppose you post the past day.
+Ban condition: You must keep posting on the date; Your tier should be downed for one 1week. Suppose you post the past day. <br>
 First rule: You should never watch Korean fun Contents, and if you did, you deserve to get a Diamon Tier.
 
 - Score 1/10: Over 30min used English, watched fun contents using diverse words.

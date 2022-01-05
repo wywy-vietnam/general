@@ -1,9 +1,11 @@
 ## DIAMOND-TIER
-This tier is the second level, and You must post every day for over 7days if you cannot post every day, even 30min in a day, then you should go to the low tier. 
+Welcome to Diamond Tier. You are 10% person of total starters. You are deserved to receive many good things as much as your efforts. 
 
 Ban condition: 
 1. You must keep posting on the date
 2. Every penalty is kicked out during one week. 
+3. Keep post over 7days.
+If you cannot post every day, even 30min in a day, then you should go to the low tier. 
 
 ### Purpose
 It is the purpose of rid the fear of **learning** English content. 

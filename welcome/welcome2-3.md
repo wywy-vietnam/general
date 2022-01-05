@@ -9,16 +9,13 @@ If you cannot post every day, even 30min in a day, then you should go to the low
 4. You should never watch native language's fun Contents.
 5. You should never watch native language's study contents. 
 
-- Score 1/10: **never** use my country language, Over 30min, watched English contents.
-- Score 2/10: **never** use my country language, Over 1hour, watched English contents what not fun but to increase diverse words.
-- Score 3/10: **never** use my country language, Over 2hours, watched study content related to development.
-- Score 4/10: **never** use my country language, Over 2hours, translated pages for increasing knowledge.
-- Score 5/10: **never** use my country language, Over 3hours, write something, and correct grammar.
-- Score 6/10: **never** use my country language, Over 4hours, getting feedback from LinkedIn, Twitter, Reddit, StackOverflow.
-- Score 7/10: **never** use my country language, Over 5hours, speech something.
-
-After this line to get high score, you should never use native language.
-
+- Score 1/10: **never** use native country language, Over 30min, watched English contents.
+- Score 2/10: **never** use native country language, Over 1hour, watched English contents what not fun but to increase diverse words.
+- Score 3/10: **never** use native country language, Over 2hours, watched study content related to development.
+- Score 4/10: **never** use native country language, Over 2hours, translated pages for increasing knowledge.
+- Score 5/10: **never** use native country language, Over 3hours, write something, and correct grammar.
+- Score 6/10: **never** use native country language, Over 4hours, getting feedback from LinkedIn, Twitter, Reddit, StackOverflow.
+- Score 7/10: **never** use native country language, Over 5hours, speech something.
 - Score 8/10: Over 6hours, correct pronunciation which you target country from AI or app or human.
 - Score 9/10: Over 7hours, and include all above.
 - Score 10/10: Over 12hours, and include all above.

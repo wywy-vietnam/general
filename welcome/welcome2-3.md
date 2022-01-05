@@ -9,6 +9,7 @@ If you cannot post every day, even 30min in a day, then you should go to the low
 4. You should never watch native language's fun Contents.
 5. You should never watch native language's study contents. 
 
+### Activity Score Table
 - Score 1/10: **never** use native country language, Over 30min, watched English contents.
 - Score 2/10: **never** use native country language, Over 1hour, watched English contents what not fun but to increase diverse words.
 - Score 3/10: **never** use native country language, Over 2hours, watched study content related to development.

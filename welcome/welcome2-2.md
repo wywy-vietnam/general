@@ -6,6 +6,7 @@ Ban condition:
 2. Every penalty is kicked out during one week. 
 3. Keep post over 7days.
 If you cannot post every day, even 30min in a day, then you should go to the low tier. 
+4. Must different content.
 
 ### Purpose
 It is the purpose of rid the fear of **learning** English content. 

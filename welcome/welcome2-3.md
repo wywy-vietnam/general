@@ -10,13 +10,28 @@ If you cannot post every day, even 30min in a day, then you should go to the low
 5. You should never watch native language's study contents. 
 
 ### Activity Score Table
-- Score 1/10: **never** use native country language, Over 30min, watched English contents.
-- Score 2/10: **never** use native country language, Over 1hour, watched English contents what not fun but to increase diverse words.
-- Score 3/10: **never** use native country language, Over 2hours, watched study content related to development.
-- Score 4/10: **never** use native country language, Over 2hours, translated pages for increasing knowledge.
-- Score 5/10: **never** use native country language, Over 3hours, write something, and correct grammar.
-- Score 6/10: **never** use native country language, Over 4hours, getting feedback from LinkedIn, Twitter, Reddit, StackOverflow.
-- Score 7/10: **never** use native country language, Over 5hours, speech something.
-- Score 8/10: Over 6hours, correct pronunciation which you target country from AI or app or human.
-- Score 9/10: Over 7hours, and include all above.
-- Score 10/10: Over 12hours, and include all above.
+To eliminate the fear of watching English content.
+- Score 1/10: Watch youtube
+I watched fun the contents.
+- Score 2/10: Watch not favor content
+Watched the videos using diverse words and understood more than 50%, or tried to understand at least one new word.
+- Score 3/10: Translate Youtube
+Whether it was YouTube content, replies, blogs, articles, or anything else I understood 100%.
+
+It is the purpose of rid the fear of **learning** English content. 
+- Score 4/10: Watch studying the content of Youtube
+I watched study content related to anything at more than one content.
+- Score 5/10: Watch then get knowledge
+I watched study content related to development or business then gained knowledge from English content. Sometimes you will need information in your native language; that's fine, you're doing fine. Keep it up.
+- Score 6/10: Write the content
+I wrote an article related to development or business in English and got **feedback** by correcting grammar, tool, application, googling.
+
+It is the purpose of being **native** who is a professional developer with huge assets.
+- Score 7/10: Get feedback from human
+I got feedback over two hours. These are examples of business talk, chatting, business communication, YouTube replies, Reddit responses, Twitter replies, and Reddit comments.
+- Score 8/10: Speech
+Over 4 hours, I used English and tried to speak.
+- Score 9/10: Modify my pronunciation
+I spent over four hours practicing my pronunciation of the targeted country pronunciation.
+- Score 10/10: Never use native language
+Over 8 hours I used English.

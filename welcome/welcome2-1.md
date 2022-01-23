@@ -20,9 +20,9 @@ I watched study content related to development or business then gained knowledge
 - Score 5/10: I had the knowledge without native language.
 
 The aim is to remove the fear of communicating in English with others.
-- Score 6/10: Write the content
+- Score 6/10: Just Write the article.
 The article I wrote was based on development or business in English, and I corrected grammar, tools, applications, and Google searches.
-- Score 7/10: Get feedback from human
+- Score 7/10: Get feedback for my article.
 I got feedback over two hours. These are examples of business talk, chatting, business communication, YouTube replies, Reddit responses, Twitter replies, and Reddit comments.
 
 It is the purpose of being **native** who is a professional developer with huge assets.

@@ -18,9 +18,9 @@ Whether it was YouTube content, replies, blogs, articles, or anything else, I un
 The purpose is to eliminate the fear of learning English content. 
 - Score 5/10: I had the knowledge, but I used my native language.
 I watched study content related to development or business then gained knowledge from English content. I need to use my native language in some cases since some concepts are new to me.
-- Score 6/10: I had the knowledge without native language.
 
 The aim is to remove the fear of communicating in English with others.
+- Score 6/10: Commnicated by using English.
 - Score 7/10: Just Write the article.
 The article I wrote was based on development or business in English, and I corrected grammar, tools, applications, and Google searches.
 - Score 8/10: Get feedback for my article.

@@ -20,7 +20,7 @@ The purpose is to eliminate the fear of learning English content.
 I watched study content related to development or business then gained knowledge from English content. I need to use my native language in some cases since some concepts are new to me.
 
 The aim is to remove the fear of communicating in English with others.
-- Score 6/10: Commnicated by using English.
+- Score 6/10: Communicated by using English.
 - Score 7/10: Just Write the article.
 The article I wrote was based on development or business in English, and I corrected grammar, tools, applications, and Google searches.
 - Score 8/10: Get feedback for my article.

@@ -15,7 +15,7 @@ I enjoyed watching the YouTube content.
 - Score 4/10: Translate Youtube content
 Whether it was YouTube content, replies, blogs, articles, or anything else, I understood 90 percent of it.
  
-_At least you should use English over 1hour._
+_At least you should use English over 1hour._ <br>
 The purpose is to eliminate the fear of learning English content.
 
 - Score 5/10: I had the knowledge, but I used my native language.

@@ -16,13 +16,13 @@ I enjoyed watching the YouTube content.
 Whether it was YouTube content, replies, blogs, articles, or anything else, I understood 90 percent of it.
  
 The purpose is to eliminate the fear of learning English content.
-- At least you should use English over 1hour.
+#### At least you should use English over 1hour.
 
 - Score 5/10: I had the knowledge, but I used my native language.
 I watched study content related to development or business then gained knowledge from English content. I need to use my native language in some cases since some concepts are new to me.
 
 The aim is to remove the fear of communicating in English with others.
-- At least you should use English over 2hour.
+#### At least you should use English over 2hour.
 
 - Score 6/10: Communicated by using English.
 - Score 7/10: Just Write the article.
@@ -31,7 +31,7 @@ The article I wrote was based on development or business in English, and I corre
 I got feedback over two hours. These are examples of business talk, chatting, business communication, YouTube replies, Reddit responses, Twitter replies, and Reddit comments.
 
 It is the purpose of being **native** who is a professional developer with huge assets.
-- At least you should use English over 5hour.
+#### At least you should use English over 5hour.
 
 - Score 9/10: Speech
 Over 4 hours, I used English and tried to speak.

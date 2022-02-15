@@ -21,8 +21,8 @@ _->At least you should use English over 1hour._
 - Score 5/10: I had the knowledge, but I used my native language.
 I watched study content related to development or business then gained knowledge from English content. I need to use my native language in some cases since some concepts are new to me.
 
-#### At least you should use English over 2hour.
 The aim is to remove the fear of communicating in English with others.
+_->At least you should use English over 2hour._
 
 - Score 6/10: Communicated by using English.
 - Score 7/10: Just Write the article.
@@ -30,8 +30,8 @@ The article I wrote was based on development or business in English, and I corre
 - Score 8/10: Get feedback for my article.
 I got feedback over two hours. These are examples of business talk, chatting, business communication, YouTube replies, Reddit responses, Twitter replies, and Reddit comments.
 
-#### At least you should use English over 5hour.
 It is the purpose of being **native** who is a professional developer with huge assets.
+_->At least you should use English over 5hour._
 
 - Score 9/10: Speech
 Over 4 hours, I used English and tried to speak.

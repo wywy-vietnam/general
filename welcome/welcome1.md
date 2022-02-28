@@ -16,7 +16,7 @@ This server will help make does not give up using English skills by each member.
 - Do not get **stress**, English does not study; it is a tool, we need to **use** as much as we can.
 - Get feedback from natives as much as you can; you need to make your **environment** use English. 
 
-# To be native of Enlish
+# To be native of English
 A. Input amount is important. Stephen Krashen, suggests how to learn English like a baby.
 
 Key: Input 

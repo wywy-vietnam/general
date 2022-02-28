@@ -16,3 +16,18 @@ This server will help make does not give up using English skills by each member.
 - Do not get **stress**, English does not study; it is a tool, we need to **use** as much as we can.
 - Get feedback from natives as much as you can; you need to make your **environment** use English. 
 
+# To be native of Enlish
+A. Input amount is important. Stephen Krashen, suggests how to learn English like a baby.
+
+Key: Input 
+Link: https://www.youtube.com/watch?v=NiTsduRreug
+
+B. Simple case
+
+Key: Feedback 
+Below video is one Japanese guy has learned Korean Language so fast through "play game"
+(https://www.youtube.com/watch?v=qEbCaLHSeTI&t=544s) 
+Many Korean has surprised, his accent is exactly same with Korean person.
+Imagine, if we are exposed on English content, we can be survive in silicon valley with good condition working.
+
+

@@ -23,17 +23,17 @@ Score is
 #### The purpose is to eliminate the fear of learning English content.<br>
 
 5. I had the knowledge, but I used my native language.
-I watched study content related to development or business then gained knowledge from English content. I need to use my native language in some cases since some concepts are new to me.
+ - I watched study content related to development or business then gained knowledge from English content. I need to use my native language in some cases since some concepts are new to me.
 
 #### The aim is to remove the fear of communicating in English with others.<br>
 
 6. Communicated by using English.
 7. Just Write the article.
-The article I wrote was based on development or business in English, and I corrected grammar, tools, applications, and Google searches.
+ - The article I wrote was based on development or business in English, and I corrected grammar, tools, applications, and Google searches.
 9. Get feedback for my article.
-I got feedback over two hours. These are examples of business talk, chatting, business communication, YouTube replies, Reddit responses, Twitter replies, and Reddit comments.
+ - I got feedback over two hours. These are examples of business talk, chatting, business communication, YouTube replies, Reddit responses, Twitter replies, and Reddit comments.
 
 #### It is the purpose of being **native** who is a professional developer with huge assets.<br>
 10. Speech
-Improved my pronunciation
-I spent over four hours practicing my pronunciation of the targeted country prononciation.
+ - Improved my pronunciation
+ - I spent over four hours practicing my pronunciation of the targeted country prononciation.

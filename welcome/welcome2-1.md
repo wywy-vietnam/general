@@ -14,11 +14,11 @@ Score is
 
 #### To eliminate the fear of watching English content.
 1. Just try to watch.
-    - I enjoyed watching the YouTube content.
+ - I enjoyed watching the YouTube content.
 3. I searched for YouTube content related to English for later viewing.
 4. Just try to watch business or development.
-5. Translate Youtube content
-    - Whether it was YouTube content, replies, blogs, articles, or anything else, I understood 90 percent of it.
+5. Translate Youtube content 
+ - Whether it was YouTube content, replies, blogs, articles, or anything else, I understood 90 percent of it.
  
 #### The purpose is to eliminate the fear of learning English content.<br>
 

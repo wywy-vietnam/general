@@ -14,7 +14,7 @@ Score is
 
 #### To eliminate the fear of watching English content.
 1. Just try to watch.
-- I enjoyed watching the YouTube content.
+ - I enjoyed watching the YouTube content.
 2. I searched for YouTube content related to English for later viewing.
 3. Just try to watch business or development.
 4. Translate Youtube content

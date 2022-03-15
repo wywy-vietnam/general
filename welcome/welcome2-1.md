@@ -43,5 +43,5 @@ The score is the sum of what you have done as described below.
 #### It is the purpose of being **native** who is a professional developer with huge assets.<br>
 9. Speech
  - Just tro to improved my pronunciation
-10 Speech like a professional
+10. Speech like a professional
  - I spent over four hours practicing my pronunciation of the targeted country prononciation.

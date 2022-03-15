@@ -6,23 +6,26 @@ Your Activity Level shows how well you did on your own. It is helpful for you to
 ## BRONZE-TIER
 Start tier, this is where everyone starts from.
 
-### Purpose 
-To eliminate the fear of watching English content.
-- Score 1/10: Just try to watch.
+## Purpose-Main
+To use English as much as you can everyday make you better getting communication skills. 
+
+### Score 
+Score is 
+
+#### To eliminate the fear of watching English content.
+1. Just try to watch.
 I enjoyed watching the YouTube content.
-- Score 2/10: I searched for YouTube content related to English for later viewing.
-- Score 3/10: Just try to watch business or development.
-- Score 4/10: Translate Youtube content
+2. I searched for YouTube content related to English for later viewing.
+3. Just try to watch business or development.
+4. Translate Youtube content
 Whether it was YouTube content, replies, blogs, articles, or anything else, I understood 90 percent of it.
  
-The purpose is to eliminate the fear of learning English content.<br>
-_->At least you should use English over 1hour._
+B. The purpose is to eliminate the fear of learning English content.<br>
 
 - Score 5/10: I had the knowledge, but I used my native language.
 I watched study content related to development or business then gained knowledge from English content. I need to use my native language in some cases since some concepts are new to me.
 
-The aim is to remove the fear of communicating in English with others.<br>
-_->At least you should use English over 2hour._
+3. The aim is to remove the fear of communicating in English with others.<br>
 
 - Score 6/10: Communicated by using English.
 - Score 7/10: Just Write the article.
@@ -31,7 +34,6 @@ The article I wrote was based on development or business in English, and I corre
 I got feedback over two hours. These are examples of business talk, chatting, business communication, YouTube replies, Reddit responses, Twitter replies, and Reddit comments.
 
 It is the purpose of being **native** who is a professional developer with huge assets.<br>
-_->At least you should use English over 5hour._
 
 - Score 9/10: Speech
 Over 4 hours, I used English and tried to speak.

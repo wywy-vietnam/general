@@ -21,7 +21,7 @@ The score is the sum of what you have done as described below.
  It will help, better content to prevent give up current action.
  - Just try to watch business or development, it will help elimiate stree from complicated content.
   
-### To eliminate listening and read
+#### To eliminate listening and read
 3. Listening
  - Get more familiar with US pronounciation by listening carefully
 see video: https://gyazo.com/e81988ec3758623c4d277915b4c607bd 

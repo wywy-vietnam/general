@@ -19,9 +19,14 @@ The score is the sum of what you have done as described below.
 2. Watch better
  - I searched for YouTube content related to English for later viewing.
  It will help, better content to prevent give up current action.
-3. Watch complicated
  - Just try to watch business or development, it will help elimiate stree from complicated content.
-4. Watch like a professional.
+  
+### To eliminate listening and read
+3. Listening
+ - Get more familiar with US pronounciation by listening carefully
+see video: https://gyazo.com/e81988ec3758623c4d277915b4c607bd 
+
+4. Read
  - Translate Youtube content 
  - Whether it was YouTube content, replies, blogs, articles, or anything else, I understood 90 percent of it.
  

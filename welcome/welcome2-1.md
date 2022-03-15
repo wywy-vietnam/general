@@ -10,23 +10,23 @@ Start tier, this is where everyone starts from.
 To use English as much as you can everyday make you better getting communication skills. 
 
 ### Score 
-Score is sum of what your action included as below description.
+The score is the sum of what you have done as described below.
 
 #### To eliminate the fear of watching English content.
 1. Watch
  - Just try to watch.
  - I enjoyed watching the YouTube content.
-2. Search 
+2. Watch better
  - I searched for YouTube content related to English for later viewing.
  It will help, better content to prevent give up current action.
 3. Watch complicated
  - Just try to watch business or development, it will help elimiate stree from complicated content.
-4. Transalte
+4. Watch like a professional.
  - Translate Youtube content 
  - Whether it was YouTube content, replies, blogs, articles, or anything else, I understood 90 percent of it.
  
 #### The purpose is to eliminate the fear of learning English content.<br>
-5. Get knowlege
+5. Get knowledge
  - I had the knowledge, but I used my native language.
  - I watched study content related to development or business then gained knowledge from English content. I need to use my native language in some cases since some concepts are new to me.
 
@@ -34,14 +34,14 @@ Score is sum of what your action included as below description.
 6. Communication
  - Communicated by using English.
 7. Communication complicated
- - Just Write the article.
+ - Just write the article.
  - The article I wrote was based on development or business in English, and I corrected grammar, tools, applications, and Google searches.
-8. Communication more professional 
- - Get feedback for my article.
+8. Communication like a professional 
+ - Get feedback on my article.
  - I got feedback over two hours. These are examples of business talk, chatting, business communication, YouTube replies, Reddit responses, Twitter replies, and Reddit comments.
 
 #### It is the purpose of being **native** who is a professional developer with huge assets.<br>
 9. Speech
  - Just tro to improved my pronunciation
-10 Speech more professional
+10 Speech like a professional
  - I spent over four hours practicing my pronunciation of the targeted country prononciation.

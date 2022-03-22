@@ -21,32 +21,34 @@ The score is the sum of what you have done as described below.
  It will help, better content to prevent give up current action.
  - Just try to watch business or development, it will help elimiate stree from complicated content.
   
-#### To eliminate listening and read
-3. Listening
+#### To eliminate fear of listening
+1. Listening
  - Get more familiar with US pronounciation by listening carefully
 see video: https://gyazo.com/e81988ec3758623c4d277915b4c607bd 
 
-4. Read
+2. Listening without script
+
+#### To eliminate fear of read
+1. Read
  - Translate Youtube content 
  - Whether it was YouTube content, replies, blogs, articles, or anything else, I understood 90 percent of it.
  
 #### The purpose is to eliminate the fear of learning English content.<br>
-5. Get knowledge
+1. Get knowledge
  - I had the knowledge, but I used my native language.
  - I watched study content related to development or business then gained knowledge from English content. I need to use my native language in some cases since some concepts are new to me.
 
 #### The aim is to remove the fear of communicating in English with others.<br>
-6. Communication
+1. Communication
  - Communicated by using English.
-7. Communication complicated
  - Just write the article.
  - The article I wrote was based on development or business in English, and I corrected grammar, tools, applications, and Google searches.
-8. Communication like a professional 
+2. Communication like a professional 
  - Get feedback on my article.
  - I got feedback over two hours. These are examples of business talk, chatting, business communication, YouTube replies, Reddit responses, Twitter replies, and Reddit comments.
 
 #### It is the purpose of being **native** who is a professional developer with huge assets.<br>
-9. Speech
+1. Speech
  - Just tro to improved my pronunciation
-10. Speech like a professional
+2. Speech like a professional
  - I spent over four hours practicing my pronunciation of the targeted country prononciation.

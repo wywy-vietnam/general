@@ -14,41 +14,46 @@ The score is the sum of what you have done as described below.
 
 #### To eliminate the fear of watching English content.
 1. Watch
- - Just try to watch.
- - I enjoyed watching the YouTube content.
+ - Did you watch YouTube videos to improve your English? 
+ 
 2. Watch better
- - I searched for YouTube content related to English for later viewing.
- It will help, better content to prevent give up current action.
- - Just try to watch business or development, it will help elimiate stree from complicated content.
+ - Did you search YouTube for content related to English for later viewing?
+ It will help prevent giving up current activities.
+ - Did you watch business or development content?
+ It will help alleviate stress caused by complicated content.
   
 #### To eliminate fear of listening
-1. Listening
- - Get more familiar with US pronounciation by listening carefully
-see video: https://gyazo.com/e81988ec3758623c4d277915b4c607bd 
+3. Listening
+ - Did you try to listen to specific words or expressions?
+ More familiar with US pronunciation by listening carefully
+ see video: https://gyazo.com/e81988ec3758623c4d277915b4c607bd 
 
-2. Listening without script
-
+4. Listening without script
+ - Did you try to listen without a script?
+ 
 #### To eliminate fear of read
-1. Read
- - Translate Youtube content 
- - Whether it was YouTube content, replies, blogs, articles, or anything else, I understood 90 percent of it.
+5. Read 
+ - Did you try translating YouTube content?
+ - Did you translate Youtube comments, blogs, articles, or anything else?
+ Whether it was YouTube content, replies, blogs, articles, or anything else, I understood 90 percent of it.
  
 #### The purpose is to eliminate the fear of learning English content.<br>
-1. Get knowledge
- - I had the knowledge, but I used my native language.
- - I watched study content related to development or business then gained knowledge from English content. I need to use my native language in some cases since some concepts are new to me.
+6. Get knowledge
+ - Did you get the knowledge from Enlgish Youtube content?
+Although you used your native language, it is still good to try to keep a positive attitude for yourself.
+ - Did you watch study content related to development or business then gained knowledge from English content. 
 
 #### The aim is to remove the fear of communicating in English with others.<br>
-1. Communication
- - Communicated by using English.
- - Just write the article.
- - The article I wrote was based on development or business in English, and I corrected grammar, tools, applications, and Google searches.
-2. Communication like a professional 
- - Get feedback on my article.
- - I got feedback over two hours. These are examples of business talk, chatting, business communication, YouTube replies, Reddit responses, Twitter replies, and Reddit comments.
+7. Communication
+ - Did you communicate by using English?
+ - Did you just write the article?
+ - Did you write an article based on development or a business in English, correcting grammar, tools, applications, and Google searches.
+8. Communication like a professional 
+ - Did you receive any feedback regarding your article from other people in your role?
+ - Did you communicate with other people over two hours. For examples of business talk, chatting, business communication, YouTube comments, Reddit responses, Twitter comments, and Reddit comments.
 
 #### It is the purpose of being **native** who is a professional developer with huge assets.<br>
-1. Speech
- - Just tro to improved my pronunciation
-2. Speech like a professional
- - I spent over four hours practicing my pronunciation of the targeted country prononciation.
+9. Speech
+ - Did you try to improved your pronunciation?
+10. Speech like a professional
+ - Did you try to spent over four hours practicing your pronunciation of the targeted country prononciation.
